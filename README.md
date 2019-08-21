@@ -1,3 +1,3 @@
 # gittraining
 
-cody
+cody frederick
