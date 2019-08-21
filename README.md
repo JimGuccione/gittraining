@@ -1,1 +1,4 @@
 # gittraining
+
+cody frederick
+sketch
